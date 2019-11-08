@@ -1,1 +1,1 @@
-# Dot-Net-Sample-Application
+# Dot-Net-Core-Sample-Application
