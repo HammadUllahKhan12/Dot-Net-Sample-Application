@@ -1,0 +1,15 @@
+C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Services.deps.json
+C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Services.dll
+C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Context.dll
+C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Context.pdb
+C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Hammad\source\repos\Services\obj\Debug\netcoreapp3.0\Services.csprojAssemblyReference.cache
+C:\Users\Hammad\source\repos\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+C:\Users\Hammad\source\repos\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfo.cs
+C:\Users\Hammad\source\repos\Services\obj\Debug\netcoreapp3.0\Services.csproj.CopyComplete
+C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Services.runtimeconfig.json
+C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Services.runtimeconfig.dev.json
+C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Services.pdb
+C:\Users\Hammad\source\repos\Services\obj\Debug\netcoreapp3.0\Services.dll
+C:\Users\Hammad\source\repos\Services\obj\Debug\netcoreapp3.0\Services.pdb
