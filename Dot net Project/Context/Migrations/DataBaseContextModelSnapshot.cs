@@ -18,6 +18,29 @@ namespace Context.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("Entities.Role", b =>
+                {
+                    b.Property<int>("RoleId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("roleCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("roleDescription")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("roleName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("RoleId");
+
+                    b.ToTable("Roles");
+                });
+
             modelBuilder.Entity("Entities.User", b =>
                 {
                     b.Property<int>("UserId")
@@ -44,6 +67,28 @@ namespace Context.Migrations
                     b.HasKey("UserId");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("Entities.UserPrevlages", b =>
+                {
+                    b.Property<int>("PrevlegeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("PrevlegeCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PrevlegeDescription")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PrevlegeName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("PrevlegeId");
+
+                    b.ToTable("UserPrevlages");
                 });
 #pragma warning restore 612, 618
         }

@@ -837,19 +837,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hammad\\.nuget\\packages\\": {}
+    "C:\\Users\\techverx\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hammad\\source\\repos\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Hammad\\source\\repos\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\Hammad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hammad\\source\\repos\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\techverx\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\techverx\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

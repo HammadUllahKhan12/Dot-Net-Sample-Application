@@ -12,7 +12,7 @@ using System.Collections;
 
 namespace curd.Controller
 {
-    [Route("api/[controller]")]
+    [Route("api/User")]
     [ApiController]
     public class UsersController : ControllerBase
     {

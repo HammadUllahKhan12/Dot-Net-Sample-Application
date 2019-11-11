@@ -42,7 +42,7 @@ namespace curd
 
             //MultipleActiveResultSet = True
             services.AddDbContext<DataBaseContext>(options => {
-                options.UseSqlServer("Data Source=DESKTOP-B23IUM2;Integrated Security=True;Initial Catalog=UserDB");
+                options.UseSqlServer("Data Source=DESKTOP-8MB228B\\SQLEXPRESS;Integrated Security=True;Initial Catalog=TestDB");
             });
             
             services.AddScoped<IUserService, UserService>();

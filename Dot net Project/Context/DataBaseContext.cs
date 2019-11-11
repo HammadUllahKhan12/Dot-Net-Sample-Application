@@ -18,6 +18,8 @@ namespace Context
         }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<UserPrevlages> UserPrevlages { get; set; }
+        public DbSet<Role> Roles { get; set; }
 
     }
 }

@@ -8,3 +8,13 @@ C:\Users\Hammad\source\repos\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
 C:\Users\Hammad\source\repos\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
 C:\Users\Hammad\source\repos\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.json
 C:\Users\Hammad\source\repos\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.dev.json
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.json
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.dev.json
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Entities\obj\Debug\netcoreapp3.0\Entities.pdb

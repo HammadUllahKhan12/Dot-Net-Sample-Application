@@ -13,3 +13,18 @@ C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Services.runtimeco
 C:\Users\Hammad\source\repos\Services\bin\Debug\netcoreapp3.0\Services.pdb
 C:\Users\Hammad\source\repos\Services\obj\Debug\netcoreapp3.0\Services.dll
 C:\Users\Hammad\source\repos\Services\obj\Debug\netcoreapp3.0\Services.pdb
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\bin\Debug\netcoreapp3.0\Services.deps.json
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\bin\Debug\netcoreapp3.0\Services.runtimeconfig.json
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\bin\Debug\netcoreapp3.0\Services.runtimeconfig.dev.json
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\bin\Debug\netcoreapp3.0\Services.dll
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\bin\Debug\netcoreapp3.0\Services.pdb
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\bin\Debug\netcoreapp3.0\Context.dll
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\bin\Debug\netcoreapp3.0\Context.pdb
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\obj\Debug\netcoreapp3.0\Services.csprojAssemblyReference.cache
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfo.cs
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\obj\Debug\netcoreapp3.0\Services.csproj.CopyComplete
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\obj\Debug\netcoreapp3.0\Services.dll
+C:\Users\techverx\Desktop\Projects\Dot-Net-Sample-Application\Dot net Project\Services\obj\Debug\netcoreapp3.0\Services.pdb

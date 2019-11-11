@@ -5029,19 +5029,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hammad\\.nuget\\packages\\": {}
+    "C:\\Users\\techverx\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hammad\\source\\repos\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\Hammad\\source\\repos\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\Hammad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hammad\\source\\repos\\Services\\obj\\",
+      "projectPath": "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\techverx\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\techverx\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5054,11 +5054,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Hammad\\source\\repos\\Context\\Context.csproj": {
-              "projectPath": "C:\\Users\\Hammad\\source\\repos\\Context\\Context.csproj"
+            "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Context\\Context.csproj": {
+              "projectPath": "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Context\\Context.csproj"
             },
-            "C:\\Users\\Hammad\\source\\repos\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Hammad\\source\\repos\\Entities\\Entities.csproj"
+            "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\techverx\\Desktop\\Projects\\Dot-Net-Sample-Application\\Dot net Project\\Entities\\Entities.csproj"
             }
           }
         }
