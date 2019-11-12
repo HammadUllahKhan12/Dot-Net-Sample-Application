@@ -5,6 +5,5 @@ C:\Users\Hammad\source\repos\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyI
 C:\Users\Hammad\source\repos\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
 C:\Users\Hammad\source\repos\Entities\obj\Debug\netcoreapp3.0\Entities.dll
 C:\Users\Hammad\source\repos\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
-C:\Users\Hammad\source\repos\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
 C:\Users\Hammad\source\repos\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.json
 C:\Users\Hammad\source\repos\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.dev.json

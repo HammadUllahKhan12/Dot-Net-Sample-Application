@@ -34,7 +34,7 @@ namespace curd
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "User API", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Test Api", Version = "v1" });
             });
 
 
@@ -42,7 +42,7 @@ namespace curd
 
             //MultipleActiveResultSet = True
             services.AddDbContext<DataBaseContext>(options => {
-                options.UseSqlServer("Data Source=DESKTOP-B23IUM2;Integrated Security=True;Initial Catalog=UserDB");
+                options.UseSqlServer("Data Source=DESKTOP-B23IUM2;Integrated Security=True;Initial Catalog=TestDB");
             });
             
             services.AddScoped<IUserService, UserService>();

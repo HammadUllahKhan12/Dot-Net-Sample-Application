@@ -8,31 +8,31 @@ namespace Services
 {
    public class UserService : IUserService 
     {
-        private readonly DataBaseContext _dbContext;
+        private readonly DataBaseContext databaseContext;
         public UserService(DataBaseContext dbContext)
         {
-            _dbContext = dbContext;
+            databaseContext = dbContext;
         }
 
         public List<User> GetUsers()
         {
-            return _dbContext.Users.AsQueryable().ToList<User>();
+            return databaseContext.Users.AsQueryable().ToList<User>();
         }
         public User GetUser(int id)
         {
-            return _dbContext.Users.Find(id);
+            return databaseContext.Users.Find(id);
         }
         public object PostUser(User user)
         {
-            _dbContext.Users.Add(user);
-            _dbContext.SaveChanges();
+            databaseContext.Users.Add(user);
+            databaseContext.SaveChanges();
 
             return "Added Successfully!!!";
         }
         public bool UserExists(int id)
         {
             
-            return _dbContext.Users.Any(e => e.UserId == id); 
+            return databaseContext.Users.Any(e => e.UserId == id); 
         }
         public object PutUser(int id, User user)
         {
@@ -41,10 +41,10 @@ namespace Services
                 return "Both Keys Are Different!!!";
             }
 
-            _dbContext.Entry(user).State = EntityState.Modified;
+            databaseContext.Entry(user).State = EntityState.Modified;
             try
             {
-               _dbContext.SaveChanges();
+               databaseContext.SaveChanges();
             }
             catch (DbUpdateConcurrencyException)
             {
@@ -61,14 +61,14 @@ namespace Services
         }
         public object DeleteUser(int id)
         {
-            var user = _dbContext.Users.Find(id);
+            var user = databaseContext.Users.Find(id);
             if (user == null)
             {
                 return "NotFound !!!";
             }
 
-            _dbContext.Users.Remove(user);
-            _dbContext.SaveChanges();
+            databaseContext.Users.Remove(user);
+            databaseContext.SaveChanges();
 
             return "Successfully Deleted!!!";
         }

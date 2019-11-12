@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserProject", "UserProject.csproj", "{0B6DE153-C4CE-4B2D-9394-27063913E532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "curd", "curd.csproj", "{0B6DE153-C4CE-4B2D-9394-27063913E532}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Context", "..\Context\Context.csproj", "{D862C587-2B90-41E0-9275-5693B013D623}"
 EndProject
